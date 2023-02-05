@@ -1,0 +1,8 @@
+.list{
+    width: 100%;
+    background-color:purple;
+    margin-bottom: 1%;
+    padding: 1%;
+    color: white;
+    cursor: pointer;
+}
